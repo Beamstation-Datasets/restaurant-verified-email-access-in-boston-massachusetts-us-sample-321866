@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Boston, Massachusetts, US
 
-> Free BeamStation sample export with 97 rows and masked direct-contact fields.
+> Free BeamStation sample export with 94 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `321866` |
 | Location | Boston |
 | Category | Restaurants |
-| Full dataset size | 971 records |
-| Free sample size | 97 records (9.99%) |
-| Last export | 2026-04-07T23:01:25.726973+00:00 |
+| Full dataset size | 945 records |
+| Free sample size | 94 records (9.95%) |
+| Last export | 2026-04-15T04:48:04.482221+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-boston-massachusetts-us-sample-321866/releases/download/sample-latest/beamstation_321866_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
