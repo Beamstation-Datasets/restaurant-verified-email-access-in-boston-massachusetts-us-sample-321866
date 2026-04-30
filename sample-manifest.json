@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0488616f-87df-4574-95e2-1a0374438efa",
+  "export_job_id": "2febc70e-b5aa-4069-9e83-7db9d4e1ca12",
   "id_short": 321866,
-  "published_at": "2026-04-22T19:33:52Z",
+  "published_at": "2026-04-30T07:17:27Z",
   "repo_name": "restaurant-verified-email-access-in-boston-massachusetts-us-sample-321866",
   "sample_asset_name": "beamstation_321866_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/321866/beamstation_321866_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 81,
-  "sample_sha256": "eec63269f1252d6f6570db06ccd83804586558c20923d32559f2ff0aa0c7a310",
-  "sample_size_bytes": 345473,
-  "total_records": 811
+  "sample_records": 91,
+  "sample_sha256": "5ef354e41e465b022d54a6b13b949c711bc21fca523e059ef83219841f69bddc",
+  "sample_size_bytes": 363912,
+  "total_records": 913
 }
